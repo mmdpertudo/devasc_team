@@ -1,0 +1,6 @@
+def personal_details():
+    R1, R2 = "10.0.0.1" "10.0.0.2"
+    R3 = "10.0.0.3" 
+    print("R1: {}\R2: {}".format(R1, R2))
+
+personal_details()
